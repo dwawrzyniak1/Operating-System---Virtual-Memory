@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\bin\Debug\Operating System - Virtual Memory.exe.config
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\bin\Debug\Operating System - Virtual Memory.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\bin\Debug\Operating System - Virtual Memory.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\obj\Debug\Operating System - Virtual Memory.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\obj\Debug\Operating System - Virtual Memory.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\Operating System - Virtual Memory\Operating System - Virtual Memory\obj\Debug\Operating System - Virtual Memory.pdb
